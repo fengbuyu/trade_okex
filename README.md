@@ -1,2 +1,2 @@
 # trade_okex
-okex交易
+okex多币种实盘交易代码
